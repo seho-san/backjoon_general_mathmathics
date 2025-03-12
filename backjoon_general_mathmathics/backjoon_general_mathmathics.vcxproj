@@ -132,6 +132,7 @@
     <ClCompile Include="n2292.cpp" />
     <ClCompile Include="n2720.cpp" />
     <ClCompile Include="n2745.cpp" />
+    <ClCompile Include="n2869.cpp" />
     <ClCompile Include="n2903.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
